@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/validator.git"
+    "url": "https://github.com/ckrst/validator.git"
   },
   "keywords": [
     "query builder",
     "mysql"
   ],
-  "author": "Newborns/S2Way",
+  "author": "Newborns/ckrst",
   "bugs": {
-    "url": "https://github.com/s2way/validator/issues"
+    "url": "https://github.com/ckrst/validator/issues"
   },
-  "homepage": "https://github.com/s2way/validator",
+  "homepage": "https://github.com/ckrst/validator",
   "devDependencies": {
     "coffee-script": "latest",
     "coffeelint": "^1.9.4",
@@ -29,7 +29,7 @@
   "dependencies": {
     "moment": "^2.14.1",
     "underscore": "^1.8.3",
-    "exceptions": "https://github.com/s2way/Exception.git",
-    "rules": "https://github.com/s2way/Rules.git"
+    "exceptions": "https://github.com/ckrst/Exception.git",
+    "rules": "https://github.com/ckrst/Rules.git"
   }
 }
